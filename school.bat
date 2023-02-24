@@ -27,10 +27,10 @@ goto :start
 cls
 
 @REM Set the variable`s for setting up the server 
-set /p dir=What should the server be called?: 
+@REM set /p dir=What should the server be called?: 
 set /p name=What should the server be called?: 
 set /p ram=How much ram can the server use(Gigabytes)?: 
-set /p version=What is the minecraft cersion of the server(Answer like this example 1.19.4)?: 
+@REM set /p version=What is the minecraft cersion of the server(Answer like this example 1.19.4)?: 
 
 @REM TODO Figure out how to set a custom directory for the server files.
 mkdir %name%
