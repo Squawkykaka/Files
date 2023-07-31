@@ -20,7 +20,7 @@
 	![[Pasted image 20230731161147.png]]
 4. Click ok
 # Download & install meteor
-1. Download this file: [Meteor Client](https://1drv.ms/u/s!AmQkiWhOgamyjaUoYs7kjHMeJdvzJA?e=WvrUJW))
+1. Download this file: [Meteor Client](https://1drv.ms/u/s!AmQkiWhOgamyjaUoYs7kjHMeJdvzJA?e=WvrUJW)
 2. Now right click on the new icon that popped up inside meteor & click edit
 3. You should see a window like this
 	![[Pasted image 20230731161421.png]]
