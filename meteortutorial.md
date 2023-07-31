@@ -2,7 +2,7 @@
 ## Get Prism Launcher
 1. Goto [Prism Launcher](https://prismlauncher.org/download/)
 2. Click Installer (.EXE)
-   	[Image](https://github.com/Squawkykaka/Files/assets/100256401/3d826bd7-8845-4137-ad56-832cd3bdf9b9)
+   	![Image](https://github.com/Squawkykaka/Files/assets/100256401/3d826bd7-8845-4137-ad56-832cd3bdf9b9)
 
 3. Wait for the download to finish
 4. Now click on the downloads icon
